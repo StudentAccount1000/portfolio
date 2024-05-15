@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f74b22c0.css",
+    "main.js": "/portfolio/static/js/main.ffbf6708.js",
+    "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
+    "static/media/snow_closeup.jpg": "/portfolio/static/media/snow_closeup.d9d0f6503a92766161e7.jpg",
+    "static/media/Huntington_together.jpg": "/portfolio/static/media/Huntington_together.cd20df4d64be4ca4ff80.jpg",
+    "static/media/BB_heartglasssunset.jpg": "/portfolio/static/media/BB_heartglasssunset.db192d97b72f5b2d44f7.jpg",
+    "static/media/Pet_lap_portfilio.jpg": "/portfolio/static/media/Pet_lap_portfilio.973dd42959fb360aabf4.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.f74b22c0.css.map": "/portfolio/static/css/main.f74b22c0.css.map",
+    "main.ffbf6708.js.map": "/portfolio/static/js/main.ffbf6708.js.map",
+    "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f74b22c0.css",
+    "static/js/main.ffbf6708.js"
+  ]
+}
