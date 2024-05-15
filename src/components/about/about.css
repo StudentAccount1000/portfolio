@@ -1,0 +1,14 @@
+.image-collection {
+    display: flex;
+    flex-direction: row;
+}
+
+.image-collection img {
+    width: 33.3%;
+    height: auto;
+}
+
+.description {
+    margin: 20px 15%;
+    text-wrap: true;
+}

@@ -1,0 +1,13 @@
+.contact-form {
+    font-weight: 400;
+    margin: 0 25%;
+}
+
+.contact-form form {
+    padding: 5px;
+    width: 100%;
+}
+
+label {
+    border-bottom: 20px;
+}
