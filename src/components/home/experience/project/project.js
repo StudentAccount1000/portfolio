@@ -19,7 +19,7 @@ const Project = () => {
                     <span>C++</span>
                 </div>
                 <div class="main-content">
-                    <p>Used CUDA, the NVIDIA GPU programming language, to implement a parallelized K-Means++ algorithm. My group used this program to analyze real world Baltimore crime data.</p>
+                    <p>Used CUDA, the NVIDIA GPU programming language, to implement a parallelized K-Means++ algorithm. My group used this program to analyze real world Baltimore crime data to analyze hundreds on thousans of reported crimes and cluster them by location.</p>
                 </div>
                 <div class="github-link">
                     <button class="GH-btn" onClick={() => openExtLinkNewTab("https://github.com/StudentAccount1000/CUDA_kmeanspp")}>

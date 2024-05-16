@@ -1,5 +1,4 @@
 import './home.css';
-import { useState } from "react";
 import { useWindowScroll } from "@uidotdev/usehooks"
 import snow_closeup from './media/snow_closeup.jpg';
 import Experience from './experience/experience';

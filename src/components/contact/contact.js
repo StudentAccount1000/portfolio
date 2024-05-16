@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { TextField } from "@mui/material";
+import { TextField, Button } from "@mui/material";
 import "./contact.css";
 
 const Contact = () => {
@@ -25,7 +25,7 @@ const Contact = () => {
                 <br/><br/>
                 <TextField variant="outlined" fullWidth placeholder="Can you tell me more about ..." label="Message Contents" margin="none" multiline rows={4} onChange={e => setFormData({...formData, message: e.target.value})}/>
                 <br/><br/>
-                <input type="submit" onClick={handleSubmit} value={"Submit"}/>
+                <Button variant="contained" onClick={handleSubmit} style={{backgroundColor: "darkblue"}}>Submit</Button>
                 
             </form>
         </div>
